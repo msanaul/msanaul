@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msanaul
+- 👋 Hi, I’m Sanaul Mustafa
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning AI and Deep Learning
 - 💞️ I’m looking to collaborate on Web Development
