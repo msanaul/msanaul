@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanaul Mustafa
 - 👀 I’m interested in AI and Machine Learning.
-- 🌱 I’m currently learning Unsupervised Machine Learning.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me mustafasanaul40@gmail.com
 
